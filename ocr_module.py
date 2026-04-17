@@ -1,4 +1,3 @@
-# ocr_module.py
 import logging
 from google import genai
 
