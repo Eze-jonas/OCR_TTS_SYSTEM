@@ -1,6 +1,3 @@
-# pipeline_module.py
-print("pipeline_module.py is starting...")
-
 import os
 import logging
 from modules.ocr_module import run_gemini_ocr
